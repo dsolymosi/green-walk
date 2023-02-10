@@ -1,0 +1,8 @@
+{
+  "short_name": "Green Walk",
+  "name": "Green Walk nearby park locator",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
